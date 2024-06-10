@@ -1,5 +1,5 @@
-titles Sonali Saren
-logo: /assets/img/sonali-saren-high-resolution-logo-white.png
+title: Sonali Saren
+#logo: /assets/img/sonali-saren-high-resolution-logo-white.png
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal

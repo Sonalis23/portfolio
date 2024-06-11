@@ -16,7 +16,7 @@ Python, R, Power BI, MS Word, MS PowerPoint, MS Excel
 ## Soft Skills
 Effective Communication, Presentation
 
-### Course Projects
+### **$\color{blue}{\textsf{Course Projects}}$**
 **Multiple Linear Regression: Model Checking and Diagnostics (Using R)** 
 **Guide - Smt. Tanusree Banerjee, Department of Statistics, Bethune College, Kolkata**
    - It is focused on fitting the best multiple linear regression model for the **Energy Efficiency Dataset** obtained from Kaggle.com by detection and removal of influential values. It involves checking of **linearity, whether if the model fitsthe data, possible model inadequacies and normality of residuals**.

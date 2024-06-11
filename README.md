@@ -2,6 +2,7 @@
 
 ### Academic Qualifications
 |  Year   |        Degree/ Certificate         |                    Institute                            | 
+
 | ------- | ---------------------------------- | ------------------------------------------------------- |
 |  2024   |          M.Sc. Statistics          |      Indian Institute of Technology, Kanpur             |
 |  2022   |      B.Sc. (Hons.) Statistics      |             Bethune college, Kolkata                    |

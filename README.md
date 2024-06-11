@@ -1,12 +1,12 @@
 # Data Scientist
 
 ### Academic Qualifications
-| Year  |       Degree/ Certificate        |                    Institute                          | 
-|-------|----------------------------------|-------------------------------------------------------|
-| 2024  |         M.Sc. Statistics         |      Indian Institute of Technology, Kanpur           |
-| 2022  |     B.Sc. (Hons.) Statistics     |             Bethune college, Kolkata                  |
-| 2019  |          WBCHSE(XII)             |    Bidhan Chandra Institution For Girls ,Durgapur     |
-| 2017  |            ICSE(X)               |     Pranavananda Vidya Mandir School, Durgapur        |
+|  Year   |        Degree/ Certificate         |                    Institute                            | 
+| ------- | ---------------------------------- | ------------------------------------------------------- |
+|  2024   |          M.Sc. Statistics          |      Indian Institute of Technology, Kanpur             |
+|  2022   |      B.Sc. (Hons.) Statistics      |             Bethune college, Kolkata                    |
+|  2019   |           WBCHSE(XII)              |    Bidhan Chandra Institution For Girls ,Durgapur       |
+|  2017   |             ICSE(X)                |     Pranavananda Vidya Mandir School, Durgapur          |
 
 
 ## Technical Skills

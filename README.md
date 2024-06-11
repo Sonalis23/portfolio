@@ -25,9 +25,9 @@ Effective Communication, Presentation
 
 * Analysis of various Factors Causing Deaths in Aircraft Accidents (MTH208A)
   Guide -Dr.Dootika Vats, Department of mathematics and Statistics, IIT Kanpur
-- Performed Exploratory Data Analysis and produced insightful visualization to analyze the relationship between the number of casualties and the different parameters of aircraft accidents dataset.
-- Web scraped the data on aircraft accidents from Wikipedia using tidyverse and rvest libraries in Rstudio. Then cleaned the data using stringr, leaving us with the final data-set containing the record of aircraft accidents happened between 1938 to 2022. Finally presented the work in an interactive web application using the R shiny web app feature in R.
-- In terms of total no. of deaths, other flight companies had very low figures whereas Boeing had the highest overall death toll. This is entirely due to Boeing having more flights than any other firm, but if the plot of fatalities per trip versus company were not displayed to the general public, they might think Boeing was the most deadly flight company ever existed. According to data, Airbus has more fatalities per trip than Boeing; other airlines are not to far away.
+  - Performed Exploratory Data Analysis and produced insightful visualization to analyze the relationship between the number of casualties and the different parameters of aircraft accidents dataset.
+  - Web scraped the data on aircraft accidents from Wikipedia using tidyverse and rvest libraries in Rstudio. Then cleaned the data using stringr, leaving us with the final data-set containing the record of aircraft accidents happened between 1938 to 2022. Finally presented the work in an interactive web application using the R shiny web app feature in R.
+  - In terms of total no. of deaths, other flight companies had very low figures whereas Boeing had the highest overall death toll. This is entirely due to Boeing having more flights than any other firm, but if the plot of fatalities per trip versus company were not displayed to the general public, they might think Boeing was the most deadly flight company ever existed. According to data, Airbus has more fatalities per trip than Boeing; other airlines are not to far  away.
 
   
 
